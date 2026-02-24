@@ -6,6 +6,9 @@ authors = [
     {name = "C.E. Jansen",email = "ce.jansen99@gmail.com"}
 ]
 readme = "README.md"
+packages = [
+    { include = "src"}
+]
 requires-python = ">=3.13"
 dependencies = [
     "pandas (>=3.0.1,<4.0.0)",
