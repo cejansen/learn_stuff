@@ -17,3 +17,6 @@ pip install poetry
 poetry init
 poetry install
 poetry add package
+
+poetry add pre-commit
+pre-commit install
