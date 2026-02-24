@@ -9,5 +9,6 @@ git add process.py -  voeg file process.py toe
 git commit -m 'message' -  commit in de lokale branch
 git commit -am 'message' - add en commit samen
 git push - gooi de data naar de git repository in github
+github actions deploy azure
 
 pull request -> merge - gooi de branch in de main
