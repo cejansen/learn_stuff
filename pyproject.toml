@@ -6,12 +6,12 @@ authors = [
     {name = "C.E. Jansen",email = "ce.jansen99@gmail.com"}
 ]
 readme = "README.md"
+packages
 requires-python = ">=3.13"
 dependencies = [
     "pandas (>=3.0.1,<4.0.0)",
     "numpy (>=2.4.2,<3.0.0)",
-    "matplotlib (>=3.10.8,<4.0.0)",
-    "pytest (>=9.0.2,<10.0.0)"
+    "matplotlib (>=3.10.8,<4.0.0)"
 ]
 
 

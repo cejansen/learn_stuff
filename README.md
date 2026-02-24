@@ -12,3 +12,8 @@ git push - gooi de data naar de git repository in github
 github actions deploy azure
 
 pull request -> merge - gooi de branch in de main
+
+pip install poetry
+poetry init
+poetry install
+poetry add package
